@@ -1,0 +1,13 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: subaccount-trial-039a0s4e
+    integrationFlowId: P2005880373-flow4
+  integrationArtifactGetMplStatus:
+    cpiApiServiceKeyCredentialsId: subaccount-trial-039a0s4e
+    integrationFlowId: P2005880373-flow4
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: subaccount-trial-039a0s4e
+    integrationFlowId: P2005880373-flow4
+    integrationFlowName: P2005880373-flow4
+    packageId: CICD
+    filePath: P2005880373-flow4.zip
